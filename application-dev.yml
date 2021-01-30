@@ -1,7 +1,7 @@
 server:
   port: 8989
 config:
-  info: "this is config info in application-dev.yml";
+  info: "this is config info in application dev yml";
 spring:
   application:
     name: eureka-server
