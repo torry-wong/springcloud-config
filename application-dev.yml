@@ -1,18 +1,4 @@
 server:
-  port: 8989
+  port: 3366
 config:
-  info: "this is config info in application dev yml";
-spring:
-  application:
-    name: eureka-server
-eureka:
-  instance:
-    hostname: eureka01.com
-  client:
-    service-url:
-      defaultZone: http://eureka02.com:7901/eureka/
-    fetch-registry: false
-    register-with-eureka: false
-  server:
-    enable-self-preservation: false
-#    eviction-interval-timer-in-ms: 2000
+  info: "this is config info in application dev yml"
