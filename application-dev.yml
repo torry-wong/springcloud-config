@@ -1,4 +1,4 @@
 server:
   port: 3366
 config:
-  info: "this is config info in application dev yml heiheiehei"
+  info: "this is config info in application dev yml gagaga"
